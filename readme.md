@@ -114,16 +114,16 @@ check this guy's cheatsheet for more:
 
 ### advanced stuff
 
-qa to start recording a couple of movements
+`qa`: to start recording a couple of movements
 
-q to quit recording and make sure you are in visual mode
+`q`: to quit recording and make sure you are in visual mode
 
-@a to apply what you recorded on a
+`@a`: to apply what you recorded on a
 
-vap to select outside a whole paragraph
+`vap`: to select outside a whole paragraph
 
-:% to start an operation on whole file
+`:%`: to start an operation on whole file
 
-:%norm! to start an operation on norm mode
+`:%norm!`: to start an operation on norm mode
 
-:'<,'>norm! @a is to start the operation of @a on the paragraph selected
+`:'<,'>norm!`: @a is to start the operation of @a on the paragraph selected
