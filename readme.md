@@ -127,3 +127,17 @@ check this guy's cheatsheet for more:
 `:%norm!`: to start an operation on norm mode
 
 `:'<,'>norm!`: @a is to start the operation of @a on the paragraph selected
+
+`ctrl + w` and how u can use s for split and closing with o
+
+`Marks` to add the m + a and m + b and then switch to marks with ' + a or ' + b
+
+`ctrl + f` and `ctrl + u` is to move cursor to last character of file or first line as well.
+
+`ctrl + n` and `ctrl + p` are for navigation
+
+`ctrl + d` and `ctrl + u` will jump certain number of phrases and make navigation easier for u
+
+`ctrl + a` to increment number and `ctrl + x` to decrement it
+
+`ctrl + shift + v` to paste to terminal from clipboard
