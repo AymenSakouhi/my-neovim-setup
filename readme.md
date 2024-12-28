@@ -141,3 +141,9 @@ check this guy's cheatsheet for more:
 `ctrl + a` to increment number and `ctrl + x` to decrement it
 
 `ctrl + shift + v` to paste to terminal from clipboard
+
+`ys-command` to surround certain word with whatever u write next for example ""
+
+`ds"` to delete surrounding double quote or if u replace " with `t` u will delete surrounding tag
+
+`cs"` to change surrounding character with whatever u want, in this case with quotes
