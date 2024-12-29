@@ -147,3 +147,5 @@ check this guy's cheatsheet for more:
 `ds"` to delete surrounding double quote or if u replace " with `t` u will delete surrounding tag
 
 `cs"` to change surrounding character with whatever u want, in this case with quotes
+
+`"ay + command` will give u possibility to yank whatever u gave to register a
