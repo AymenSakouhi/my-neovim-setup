@@ -37,7 +37,7 @@ set PATH $PATH /home/rod/.local/bin
 #         eval (/opt/homebrew/bin/brew shellenv)
 #     end
 #     # Initialize oh-my-posh
-#     oh-my-posh init fish --config $HOME/.poshthemes/ys.omp.json | source
+#     oh-my-posh init fish --config /opt/homebrew/opt/oh-my-posh/themes/ys.omp.json | source
 # end
 #
 # # Path configurations
