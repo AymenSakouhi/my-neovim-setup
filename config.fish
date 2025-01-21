@@ -24,6 +24,12 @@ end
 # Created by `pipx` on 2024-12-25 15:35:46
 set PATH $PATH /home/rod/.local/bin
 
+alias ld='eza -lD'
+alias lf='eza -lF --color=always | grep -v /'
+alias lh='eza -dl .* --group-directories-first'
+alias ll='eza -al --group-directories-first'
+alias ls='eza -alF --color=always --sort=size | grep -v /'
+alias lt='eza -al --sort=modified'
 
 # MAC OS CONFIG
 # Under this line all is for macos config
